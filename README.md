@@ -25,6 +25,16 @@ A Windows desktop tool built with **C# / .NET 9 / WPF**. Drop in a video and it 
 
 ---
 
+## 🖼 界面截图 / Screenshots
+
+![视频翻译 Video Translate](images/shot-main.jpg)
+
+![设置 Settings](images/shot-settings.jpg)
+
+![转字幕 Transcribe](images/shot-transcribe.jpg)
+
+---
+
 ## 🏃 快速上手 / Quick Start
 
 1. **下载安装包**：从 Releases 下载 `SuperVideoTrans_Setup_*.exe` 并安装（Windows 10/11 x64）。
